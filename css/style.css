@@ -1,0 +1,16 @@
+table{
+	margin-left: auto;
+	margin-right: auto;
+	border: 5px solid #BBADA0;
+	background-color: #BBADA0;
+	border-radius: 10px;
+}
+td{
+	color: #786E66;
+	font-size: 50px;
+	text-align: center;
+	height: 100px;
+	width: 100px;
+	border: 5px solid #BBADA0;
+	border-radius: 20px;
+}
